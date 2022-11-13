@@ -1,3 +1,3 @@
-# React-Static - Basic Template
+#Casita_API
 
-To use this template, run `react-static create` and use the `basic` template.
+Node-Postgres + Netlify + Postgresql Cluster (CockroachDB)
