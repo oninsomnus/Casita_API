@@ -1,0 +1,14 @@
+# Local Netlify folder
+.netlify
+node_modules
+.postgresql
+dist
+main
+public
+src
+tmp
+~
+sueltos.txt
+.babelrc
+.eslintrc
+artifacts
